@@ -9,6 +9,7 @@ Cada ejercicio incluye la solución. Nuestra recomendación es que al menos lo i
 * [Repite](repite.md)
 * [Saluda](saluda.md)
 * [Suma](suma.md)
+* [Cuál es mi edad?](edad.md)
 * [BMI](bmi.md)
 * [Mayor que diez](mayor_que_diez.md)
 * [Adivina el número](adivina.md)
@@ -40,12 +41,20 @@ La mayoría de ejercicios de acá en adelante te van a pedir crear métodos como
 * [Arreglo a tabla](arreglo_a_tabla.md) - formatear un arreglo para que se vea como una tabla (tener en cuenta el ancho)
 * [Ordenar un arreglo](ordenar_arreglo.md)
 * [Buscar en un arreglo](buscar_arreglo.md)
-* [Recorrer una matriz](recorrer_matriz.md) - llega una matriz y se deben imprimir
+* [Recorrer una matriz](recorrer_matriz.md) - llega una matriz y se deben imprimir todos los elementos
 * [Buscar en una matriz](buscar_matriz.md)
 * [Crea un hash](hashes.md) - se da un arreglo y se debe convertir a un hash
 * [Traducir la frase](traduce_la_frase.md) - se da un hash y una frase, traducir la frase utilizando el hash
-* [Palabras en diccionario](palabras_en_diccionario.md) - llega un hash y un arreglo de palabras, ver si todas las palabras están en el hash
 * [Formatea un hash](hash_formateado.md)
 * [Frecuencias](frecuencias.md) - llega una frase y devuleve un hash con el número de veces que aparece cada letra
-* [Mismas letras](mismas_letras.md) -  
-* [Letras repetidas](letras_repetidas.md) - se da dos frases y se debe
+* [Letras repetidas](letras_repetidas.md) - se da dos frases y se debe devolver un arreglo con las letras que se repiten
+
+## Nivel 3
+
+* Escalera
+* [Mismas letras](mismas_letras.md) - decir si dos palabras tienen las mismas letras
+* Factorial
+* Fibonacci
+* Triqui
+* Cifrado
+* Triángulo
