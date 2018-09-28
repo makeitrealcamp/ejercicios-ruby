@@ -1,8 +1,8 @@
 ## Ejercicios de programación
 
-El objetivo de estos ejercicios es ayudarte a practicar tus conocimientos de programación. Están pensados para solucionar en Ruby pero realmente se podrían hacer en cualquier lenguaje de programación.
+El objetivo de estos ejercicios es ayudarte a practicar tus conocimientos de programación. Están pensados para ser solucionados en Ruby, pero realmente se podrían hacer en cualquier lenguaje de programación.
 
-Cada ejercicio incluye la solución. Nuestra recomendación es que al menos lo intentes solucionar antes de ver la solución. Si no lo pudiste solucionar mira la solución una vez, ciérrala, e intenta nuevamente. Es la mejor forma de aprender.
+Cada ejercicio incluye la solución. Nuestra recomendación es que al menos lo intentes resolver antes de ver la solución. Si no lo puedes resolver mira la solución una vez, ciérrala, e intenta nuevamente. Es la mejor forma de aprender.
 
 ## Nivel 1
 
@@ -27,12 +27,16 @@ Cada ejercicio incluye la solución. Nuestra recomendación es que al menos lo i
 
 ## Nivel 2
 
+La mayoría de ejercicios de acá en adelante te van a pedir crear métodos como en los últimos retos del nivel anterior.
+
 * [Número de likes](numero_de_likes.md)
 * [Contar elementos](contar.md)
+* [Reemplaza elementos](reemplazar.md)
 * [Posiciones pares](posiciones_pares.md)
 * [Números pares](numeros_pares.md)
 * [Arreglo de posiciones](arreglo_de_posiciones.md) - dado un arreglo devolver un nuevo arreglo que indique las posiciones en las que aparece el número 1
 * [Promedio](promedio.md)
+* [Generador de contraseñas](generador_contrasenas.md) - reemplazar la a con 4, la e con 3, la i con 1, la o con 0.
 * [Arreglo a tabla](arreglo_a_tabla.md) - formatear un arreglo para que se vea como una tabla (tener en cuenta el ancho)
 * [Ordenar un arreglo](ordenar_arreglo.md)
 * [Buscar en un arreglo](buscar_arreglo.md)
