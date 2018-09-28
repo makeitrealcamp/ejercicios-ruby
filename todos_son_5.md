@@ -1,6 +1,6 @@
 # Todos son 5
 
-Escribe un método llamado `todos_son_5` que reciba un arreglo como argumento y devuelva `true` si **todos** los elementos del arreglo son el número `5`, o `false` de lo contrario.
+Escribe un método llamado `todos_son_5` que reciba un arreglo y devuelva `true` si **todos** los elementos son el número `5`. Si hay al menos un elemento que no es `5` deberá retornar `false`.
 
 Puedes utilizar la siguiente plantilla para tu solución:
 
@@ -25,4 +25,4 @@ false
 false
 ```
 
-[Ver solución](solution/todos_son_5.rb)
+[Ver solución](solutions/todos_son_5.rb)

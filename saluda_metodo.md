@@ -19,4 +19,4 @@ Hola Juan
 Hola
 ```
 
-[Ver solución](solution/saluda_metodo.rb)
+[Ver solución](solutions/saluda_metodo.rb)

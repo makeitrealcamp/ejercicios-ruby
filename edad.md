@@ -1,6 +1,6 @@
 # ¿Cuál es mi edad?
 
-Escribe un programa para la consola que le pregunte al usuario el año en que nació e imprime su edad actual. Por ejemplo, asumiendo que el año actual es 2020:
+Escribe un programa para la consola que le pregunte al usuario el año en que nació e imprima su edad actual. Por ejemplo, asumiendo que el año actual es 2020:
 
 ```
 $ ruby edad.rb
