@@ -21,6 +21,7 @@ Cada ejercicio incluye la solución. Nuestra recomendación es que al menos lo i
 * [Rango de números](rango_numeros.md)
 * [Adivina el número (varios intentos)](adivina_intentos.md)
 * [Imprime la lista](imprime_lista.md)
+* [Escalera](escalera.md)
 * [Orden aleatorio](orden_aleatorio.md)
 * [Traductor](traductor.md)
 * [Saluda con método](saluda_metodo.md)
@@ -35,26 +36,30 @@ La mayoría de ejercicios de acá en adelante te van a pedir crear métodos como
 * [Reemplaza elementos](reemplazar.md)
 * [Posiciones pares](posiciones_pares.md)
 * [Números pares](numeros_pares.md)
-* [Arreglo de posiciones](arreglo_de_posiciones.md) - dado un arreglo devolver un nuevo arreglo que indique las posiciones en las que aparece el número 1
+* [Arreglo de posiciones](arreglo_de_posiciones.md)
 * [Promedio](promedio.md)
-* [Generador de contraseñas](generador_contrasenas.md) - reemplazar la a con 4, la e con 3, la i con 1, la o con 0.
-* [Arreglo a tabla](arreglo_a_tabla.md) - formatear un arreglo para que se vea como una tabla (tener en cuenta el ancho)
-* [Ordenar un arreglo](ordenar_arreglo.md)
+* [Generador de contraseñas](generador_contrasenas.md)
 * [Buscar en un arreglo](buscar_arreglo.md)
-* [Recorrer una matriz](recorrer_matriz.md) - llega una matriz y se deben imprimir todos los elementos
+* [Cadena a arreglo](cadena_a_arreglo.md)
+* [Arreglo a cadena](arreglo_a_cadena.md)
 * [Buscar en una matriz](buscar_matriz.md)
-* [Crea un hash](hashes.md) - se da un arreglo y se debe convertir a un hash
-* [Traducir la frase](traduce_la_frase.md) - se da un hash y una frase, traducir la frase utilizando el hash
-* [Formatea un hash](hash_formateado.md)
-* [Frecuencias](frecuencias.md) - llega una frase y devuleve un hash con el número de veces que aparece cada letra
-* [Letras repetidas](letras_repetidas.md) - se da dos frases y se debe devolver un arreglo con las letras que se repiten
+* [Matriz a tabla](matriz_a_tabla.md)
+* [Crea un hash](hashes.md)
+* [Traduce la frase](traduce_la_frase.md)
+* [Formatea un hash](formatear_hash.md)
+* [Frecuencias](frecuencias.md)
+* [Transcripción de ARN](transcripcion_arn.md)
 
 ## Nivel 3
 
+* [Ordenar un arreglo](ordenar_arreglo.md)
 * Escalera
 * [Mismas letras](mismas_letras.md) - decir si dos palabras tienen las mismas letras
+* [Letras repetidas](letras_repetidas.md)
 * Factorial
 * Fibonacci
 * Triqui
 * Cifrado
 * Triángulo
+* Anagramas
+* Crear parejas de forma aleatoria

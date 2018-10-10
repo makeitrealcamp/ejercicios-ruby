@@ -16,4 +16,6 @@ Ingresa el límite superior: 10
 
 **Nota:** Fíjate que se imprimen también los números en los límites, en el ejemplo el 5 y el 10.
 
+Si este ejercicio te está pareciendo muy difícil intenta primero pedir sólo un número e imprimir del 0 hasta ese número. ¿Qué tal del 1 hasta ese número?
+
 [Ver solución](solutions/rango_numeros.rb)
