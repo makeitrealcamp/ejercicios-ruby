@@ -38,7 +38,7 @@ La mayoría de ejercicios de acá en adelante te van a pedir crear métodos como
 * [Números pares](numeros_pares.md)
 * [Arreglo de posiciones](arreglo_de_posiciones.md)
 * [Promedio](promedio.md)
-* [Generador de contraseñas](generador_contrasenas.md)
+* [Generador de contraseñas](contrasenas.md)
 * [Buscar en un arreglo](buscar_arreglo.md)
 * [Cadena a arreglo](cadena_a_arreglo.md)
 * [Arreglo a cadena](arreglo_a_cadena.md)
